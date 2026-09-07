@@ -34,11 +34,17 @@ O también puedes abrirlo manualmente:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre el notebook `notebooks/connectatel_analysis.ipynb`.
-2. Ejecuta las celdas en orden.
-3. El notebook carga los datasets desde la carpeta `data/` del repositorio.
-4. Revisa los resultados, gráficos e insights generados.
+Para reproducir este análisis:
 
+1. Abre el notebook `notebooks/connectatel_analysis.ipynb` desde GitHub o usando el botón **Open in Colab**.
+2. Verifica que los datasets estén disponibles en la carpeta `data/`:
+   - `data/plans.csv`
+   - `data/users_latam.csv`
+   - `data/usage.csv`
+3. Ejecuta las celdas del notebook en orden, desde la carga de librerías hasta las conclusiones finales.
+4. Revisa las salidas generadas: tablas, estadísticas descriptivas, gráficos, segmentaciones e insights ejecutivos.
+5. Si se ejecuta en Google Colab, asegúrate de que las rutas de los archivos apunten correctamente a la carpeta `data/` o a los enlaces públicos del repositorio.
+   
 ## 🧠 Objetivo del análisis
 
 El proyecto busca responder preguntas clave de negocio:
