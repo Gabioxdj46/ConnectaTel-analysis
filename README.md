@@ -6,7 +6,7 @@ El objetivo del proyecto es analizar cómo los clientes usan los servicios móvi
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/connectatel_analysis.ipynb`  
+- `Project_ConnectaTel.ipynb`  
   Notebook principal con carga de datos, limpieza, análisis exploratorio, visualizaciones, detección de outliers, segmentación de clientes e insights ejecutivos.
 
 - `data/plans.csv`  
