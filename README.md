@@ -26,7 +26,7 @@ Haz clic en el siguiente botón:
 
 O también puedes abrirlo manualmente:
 
-1. Abre el archivo `notebooks/connectatel_analysis.ipynb` en GitHub.
+1. Abre el archivo `Project_ConnectaTel.ipynb` en GitHub.
 2. Copia el enlace del notebook.
 3. Entra a Google Colab.
 4. Selecciona **File → Open notebook → GitHub**.
@@ -36,7 +36,7 @@ O también puedes abrirlo manualmente:
 
 Para reproducir este análisis:
 
-1. Abre el notebook `notebooks/connectatel_analysis.ipynb` desde GitHub o usando el botón **Open in Colab**.
+1. Abre el notebook `Project_ConnectaTel.ipynb` desde GitHub o usando el botón **Open in Colab**.
 2. Verifica que los datasets estén disponibles en la carpeta `data/`:
    - `data/plans.csv`
    - `data/users_latam.csv`
