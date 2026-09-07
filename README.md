@@ -111,4 +111,11 @@ El proyecto busca responder preguntas clave de negocio:
 
 El análisis permitió construir una visión clara del comportamiento de los clientes de ConnectaTel. La base de usuarios está compuesta principalmente por clientes adultos y de uso medio, pero también existen segmentos de bajo y alto consumo que pueden ser aprovechados para mejorar la estrategia comercial, optimizar planes y fortalecer la retención de clientes.
 
+## 📌 Estado del proyecto
+
+Proyecto finalizado como parte del Sprint 7.
+
+## 👤 Autor
+
+Proyecto desarrollado por **Gabriel Tacuri** como parte de su formación en análisis de datos.
 
